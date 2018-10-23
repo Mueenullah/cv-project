@@ -1,0 +1,15 @@
+img{
+  height: 150px;
+  padding-left: 645px;
+}
+table{
+  border: 3px solid;
+  width: 60%;
+  text-align: center;
+  padding-left: 0px;
+}
+br{
+  height: 2px;
+  width: 100%;
+  color: black;
+}
